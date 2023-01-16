@@ -1,4 +1,3 @@
-
 let numberOne = +prompt("Introduce un número");
 let numberTwo = +prompt("Introduce otro número");
 function calculator() {
@@ -68,4 +67,3 @@ function calculator() {
 }
 
 calculator(numberOne, numberTwo);
-view rawcalculadora práctica 1 hosted with ❤ by GitHub
